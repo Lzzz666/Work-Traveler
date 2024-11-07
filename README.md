@@ -43,7 +43,6 @@ npm install
 npm run dev
 ```
 This will start the Vite development server, and you can access the application at http://localhost:3000/
-----
 
 ### HomePage: `http://localhost:3000/`
 ### LoginPage: `http://localhost:3000/login`
