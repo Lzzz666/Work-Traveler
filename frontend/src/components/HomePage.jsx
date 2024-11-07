@@ -24,6 +24,13 @@ const listings = [
     price: "NT$5,000/晚",
     image: "https://images.unsplash.com/photo-1730544510231-d63fffb42aa4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8",
   },
+  {
+    id: 4,
+    title: "私人招待所 - 總統房",
+    location: "台北",
+    price: "NT$5,0000/晚",
+    image: "https://images.unsplash.com/photo-1730544510231-d63fffb42aa4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8",
+  },
 ];
 
 function HomePage() {

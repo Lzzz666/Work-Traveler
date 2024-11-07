@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import LogIn from './components/LogIn';
 import HomePage from './components/HomePage';
+import RoomDetail from './components/RoomDetail';
 import "./App.css";
 
 
@@ -20,6 +21,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/login" element={<LogIn />} />
+        <Route path="/room" element={<RoomDetail />} />
       </Routes>
     </Router>
   );
