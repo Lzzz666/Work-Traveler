@@ -1,4 +1,4 @@
-# Work Traveler
+# Work Traveler - frontend
 
 Welcome to the frontend of **Work Traveler**! This project is built using **React** and **Vite**, and is designed to provide a responsive, user-friendly interface for the Work Traveler platform.
 
@@ -30,7 +30,7 @@ To get started, clone the repository and install the necessary dependencies.
 
    ```bash
    git clone https://github.com/Lzzz666/Work_Traveler.git
-   cd Work_Traveler
+   cd Work_Traveler/frontend
    ```
 2. Install dependencies:
 
